@@ -410,7 +410,7 @@ module.exports = {
 Execute the seed file:
 
 ```sh
-npx sequelize-cli db:seed:all
+sequelize-cli db:seed:all
 ```
 
 > Made a mistake? You can always undo: `sequelize db:seed:undo`
